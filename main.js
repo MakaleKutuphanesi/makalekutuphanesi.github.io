@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", function () {
     let seconds = 3;
 
     function updateCounter() {
-        counterElement.textContent = "Please allow up to " + seconds + " seconds...";
+        counterElement.textContent = "Lütfen " + seconds + " saniye bekleyin...";
         seconds--;
 
         if (seconds < 0) {
