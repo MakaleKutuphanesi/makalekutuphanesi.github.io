@@ -14,17 +14,17 @@ tabs:
   categories: Kategoriler
   tags: Etiketler
   archives: Arşiv
-  about: Hakkında
+  about: Hakkımızda
 
 # the text displayed in the search bar & search results
 search:
   hint: Ara...
   cancel: İptal
-  no_results: Hop! Öyle bir şey bulamadım.
+  no_results: Sonuç bulunamadı
 
 panel:
-  lastmod: Son Güncellenenler
-  trending_tags: Yükselen Etiketler
+  lastmod: Yeni Makaleler
+  trending_tags: Yeni Etiketler
   toc: İçindekiler
 
 copyright:
@@ -35,25 +35,25 @@ copyright:
     link: https://creativecommons.org/licenses/by/4.0/deed.tr
 
   # Displayed in the footer
-  brief: Bazı hakları saklıdır.
+  brief: Tüm hakları saklıdır.
   verbose: >-
     Aksi belirtilmediği sürece, bu sitedeki gönderiler Creative Commons Atıf 4.0 Uluslararası (CC BY 4.0) Lisansı altındadır.
     Kısaca sayfa linkini vererek değiştirebilir / paylaşabilirsiniz.
 
-meta: :PLATFORM ve :THEME teması
+meta: NULL
 
 not_found:
-  statement: Üzgünüz, bu linki yanlış yerleştirdik veya var olmayan bir şeye işaret ediyor.
+  statement: Sayfa bulunamadı. Linkteki makale kaldırılmış veya site bakımda olabilir. Sayfayı yenilemeyi deneyin.
 
 notification:
-  update_found: İçeriğin yeni bir sürümü mevcut.
-  update: Güncelle
+  update_found: Yeni bir makale olabilir.
+  update: Yenile
 
 # ----- Posts related labels -----
 
 post:
-  written_by: Yazan
-  posted: Gönderim
+  written_by: Yazarlar
+  posted: Tarih
   updated: Güncelleme
   words: sözcük
   pageview_measure: görüntülenme
