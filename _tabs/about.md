@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+poyraz bir bebek değildir çok küçük bir bebek hiç değildir acayip küçük bebek de değildir poyraz bir bebektir
