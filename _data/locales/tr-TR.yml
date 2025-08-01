@@ -42,10 +42,10 @@ panel:
 #meta: NULL
 
 not_found:
-  statement: Makale Bulunamadı.
+  statement: Makale bulunamadı
 
 notification:
-  update_found: Yeni makaleler olabilir.
+  update_found: Yeni makaleler olabilir
   update: Yenile
 
 # ----- Posts related labels -----
@@ -68,7 +68,7 @@ post:
       succeed: Kopyalandı.
     share_link:
       title: Linki kopyala
-      succeed: Link kopyalandı.
+      succeed: Link kopyalandı
 
 # categories page
 categories:
